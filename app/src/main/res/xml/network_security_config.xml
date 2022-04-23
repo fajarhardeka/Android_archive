@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">www.smkpabhara.sch.id/cat/login.php</domain>
+        <domain includeSubdomains="true">192.168.205.2/cat/login.php</domain>
+        <domain includeSubdomains="true">192.168.205.3/cat/login.php</domain>
+        <domain includeSubdomains="true">192.168.205.4/cat/login.php</domain>
+        <domain includeSubdomains="true">192.168.205.5/cat/login.php</domain>
+    </domain-config>
+</network-security-config>

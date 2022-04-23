@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Pharamex CBT</string>
+    <string name="halo_siswa">Halo Siswa!</string>
+    <string name="todo">TODO</string>
+    <string name="phabara_exam_3_0">PHABARA EXAM 3.0</string>
+    <string name="pharamex">PHARAMEX</string>
+    <string name="server_online">Server Online</string>
+    <string name="server_1_local">Server 1 Local</string>
+    <string name="server_2_local">Server 2 Local</string>
+    <string name="server_3_local">Server 3 Local</string>
+    <string name="server_4_local">Server 4 Local</string>
+    <string name="exit">exit</string>
+    <string name="About">About</string>
+    <string name="tim">TIM TKJ BERSATU</string>
+    <string name="smkpbr">SMK Panca Bhakti Rakit</string>
+    <string name="deka">Agus Fajar Hardeka, S.Kom</string>
+    <string name="lilik">Lilik Ariyanto, S.Kom</string>
+    <string name="seto">Seto Budi Satrio, S.Pd</string>
+    <string name="hendi">Hendy Cahya Muftianto, A.md</string>
+    <string name="dekajob">Developer</string>
+    <string name="lilikjob">Resources</string>
+    <string name="setojob">Mentor</string>
+    <string name="hendijob">Tester</string>
+    <string name="tutorial">Tutorial</string>
+    <string name="judul_online">Server Online</string>
+    <string name="judul_local1">Server Local 1</string>
+    <string name="judul_local2">Server Local 2</string>
+    <string name="judul_local3">Server Local 3</string>
+    <string name="judul_local4">Server Local 4</string>
+    <string name="online_tutorial">
+    Untuk server online diwajibkan menggunakan wifi atau paket data, yang bisa digunakan untuk browsing dan terkoneksi dengan internet.\n</string>
+    <string name="local1_tutorial">
+    Untuk server local 1 diwajibkan menggunakan wifi sekolah yang terkoneksi dengan server ujian.\n</string>
+    <string name="local2_tutorial">
+    Untuk server local 2 diwajibkan menggunakan wifi sekolah yang terkoneksi dengan server ujian.\n</string>
+    <string name="local3_tutorial">
+    Untuk server local 3 diwajibkan menggunakan wifi sekolah yang terkoneksi dengan server ujian.\n</string>
+    <string name="local4_tutorial">
+    Untuk server local 4 diwajibkan menggunakan wifi sekolah yang terkoneksi dengan server ujian.\n</string>
+</resources>
